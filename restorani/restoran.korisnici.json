@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "6672f40c60d465628e5ac049"
+  },
+  "korisnickoIme": "admin1",
+  "lozinka": "471e6604ad6b4f9b85a81305feefb4f7",
+  "bezbednosnoPitanje": "klub",
+  "odgovor": "zvezda",
+  "ime": "Andrija",
+  "prezime": "Trajkovic",
+  "pol": "m",
+  "adresa": "Karaburma",
+  "kontakt": "0649901907",
+  "imejl": "andrija@etf",
+  "kreditnaKartica": "010203",
+  "slika": "C:\\Users\\andri\\Desktop\\Projekat PIA\\backend\\images\\podrazumevana",
+  "aktivan": true,
+  "tip": "admin"
+},
+{
+  "_id": {
+    "$oid": "6679fcb228b99ea911e7b590"
+  },
+  "korisnickoIme": "neca",
+  "lozinka": "73ca3b0c022d124915463293052f8058",
+  "bezbednosnoPitanje": "aa",
+  "odgovor": "bb",
+  "ime": "Nemanja",
+  "prezime": "Tomovic",
+  "pol": "m",
+  "adresa": "bar",
+  "kontakt": "064124589",
+  "imejl": "neca@etf.rs",
+  "kreditnaKartica": "909123",
+  "slika": "C:\\Users\\andri\\Desktop\\Projekat PIA\\backend\\images\\neca",
+  "aktivan": true,
+  "tip": "gost"
+},
+{
+  "_id": {
+    "$oid": "66816394165f618ef90389b8"
+  },
+  "korisnickoIme": "pepa",
+  "lozinka": "b91feae20007b4911f50415a99500f36",
+  "bezbednosnoPitanje": "Kola",
+  "odgovor": "Audi",
+  "ime": "Petar",
+  "prezime": "Rakovic",
+  "pol": "m",
+  "adresa": "pb",
+  "kontakt": "064342352",
+  "imejl": "pepa@arh.rs",
+  "kreditnaKartica": "1122312",
+  "slika": "C:\\Users\\andri\\Desktop\\Projekat PIA\\backend\\images\\pepa",
+  "aktivan": true,
+  "tip": "gost",
+  "brojNepojavljivanja": 3
+},
+{
+  "_id": {
+    "$oid": "668898287a81df1967f3e085"
+  },
+  "korisnickoIme": "danilo",
+  "lozinka": "cd450bb4d2b2bb65862158d31a5d54fb",
+  "bezbednosnoPitanje": "nadimak",
+  "odgovor": "Spanac",
+  "ime": "Danilo",
+  "prezime": "Milovanovic",
+  "pol": "m",
+  "adresa": "po",
+  "kontakt": "064124589",
+  "imejl": "danilo@etf.rs",
+  "kreditnaKartica": "2087621",
+  "slika": "C:\\Users\\andri\\Desktop\\Projekat PIA\\backend\\images\\danilo",
+  "aktivan": true,
+  "tip": "konobar",
+  "restoran": "Ribareva priča"
+},
+{
+  "_id": {
+    "$oid": "66891ecbcff94f0f65ee053e"
+  },
+  "korisnickoIme": "elena",
+  "lozinka": "e583de89e4dbc5dd8a88bb40dee998d1",
+  "bezbednosnoPitanje": "boja",
+  "odgovor": "crvena",
+  "ime": "Elena",
+  "prezime": "Trajkovic",
+  "pol": "z",
+  "adresa": "sp",
+  "kontakt": "064124589",
+  "imejl": "elena@vmz.rs",
+  "kreditnaKartica": "1221312",
+  "slika": "C:\\Users\\andri\\Desktop\\Projekat PIA\\backend\\images\\podrazumevana",
+  "aktivan": true,
+  "tip": "konobar",
+  "restoran": "Ribareva priča"
+},
+{
+  "_id": {
+    "$oid": "668a730f3739f8013f0b0e1a"
+  },
+  "korisnickoIme": "mina",
+  "lozinka": "bb81968644c47bf390f804c5fb7067ba",
+  "bezbednosnoPitanje": "Pas",
+  "odgovor": "Koko",
+  "ime": "Mina",
+  "prezime": "Gasic",
+  "pol": "z",
+  "adresa": "Smederevska Palanka",
+  "kontakt": "065909090",
+  "imejl": "mina@ekof.rs",
+  "kreditnaKartica": "9976122",
+  "slika": "C:\\Users\\andri\\Desktop\\Projekat PIA\\backend\\images\\podrazumevana",
+  "aktivan": true,
+  "tip": "gost"
+},
+{
+  "_id": {
+    "$oid": "668a7a143739f8013f0b0e6e"
+  },
+  "korisnickoIme": "igor",
+  "lozinka": "a0b61f8734d40f5c343f198a632eee2c",
+  "bezbednosnoPitanje": "Pice",
+  "odgovor": "Vinjak",
+  "ime": "Igor",
+  "prezime": "Vicentijevic",
+  "pol": "m",
+  "adresa": "sp",
+  "kontakt": "064124589",
+  "imejl": "igor@etf.rs",
+  "kreditnaKartica": "2124124",
+  "slika": "C:\\Users\\andri\\Desktop\\Projekat PIA\\backend\\images\\igor",
+  "aktivan": true,
+  "tip": "konobar",
+  "restoran": "Proleće",
+  "brojNepojavljivanja": 0
+}]

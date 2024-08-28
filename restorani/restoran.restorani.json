@@ -1,0 +1,350 @@
+[{
+  "_id": {
+    "$oid": "6686a0b878459478bca83012"
+  },
+  "naziv": "Ribareva priča",
+  "tip": "domaći",
+  "adresa": "Doktora Rajsa 9",
+  "lokacijaNaMapi": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2852.382780223639!2d20.959232175657178!3d44.36372917107735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4750cf0061517c8d%3A0x7a1cfc1dd8488f79!2z0KDQtdGB0YLQvtGA0LDQvSDQoNC40LHQsNGA0LXQstCwINC_0YDQuNGH0LA!5e0!3m2!1ssr!2srs!4v1720098932361!5m2!1ssr!2srs",
+  "opis": "kotlići, rečna riba...",
+  "kontakt": "065334902",
+  "konobari": [
+    {
+      "_id": {
+        "$oid": "66891ecbcff94f0f65ee053e"
+      },
+      "korisnickoIme": "elena",
+      "lozinka": "e583de89e4dbc5dd8a88bb40dee998d1",
+      "bezbednosnoPitanje": "boja",
+      "odgovor": "crvena",
+      "ime": "Elena",
+      "prezime": "Trajkovic",
+      "pol": "z",
+      "adresa": "sp",
+      "kontakt": "064124589",
+      "imejl": "elena@vmz.rs",
+      "kreditnaKartica": "1221312",
+      "slika": "C:\\Users\\andri\\Desktop\\Projekat PIA\\backend\\images\\podrazumevana",
+      "aktivan": true,
+      "tip": "konobar",
+      "restoran": "Ribareva priča"
+    },
+    {
+      "_id": {
+        "$oid": "668898287a81df1967f3e085"
+      },
+      "korisnickoIme": "danilo",
+      "lozinka": "cd450bb4d2b2bb65862158d31a5d54fb",
+      "bezbednosnoPitanje": "nadimak",
+      "odgovor": "Spanac",
+      "ime": "Danilo",
+      "prezime": "Milovanovic",
+      "pol": "m",
+      "adresa": "po",
+      "kontakt": "064124589",
+      "imejl": "danilo@etf.rs",
+      "kreditnaKartica": "2087621",
+      "slika": "C:\\Users\\andri\\Desktop\\Projekat PIA\\backend\\images\\danilo",
+      "aktivan": true,
+      "tip": "konobar",
+      "restoran": "Ribareva priča"
+    }
+  ],
+  "ocena": 0,
+  "jelovnik": [
+    {
+      "naziv": "Punjena pljeskavica",
+      "cena": 450,
+      "sastojci": "svinjsko meso, kackavalj",
+      "slika": "C:\\Users\\andri\\Desktop\\Projekat PIA\\backend\\images\\Ribareva pricaPunjena pljeskavica"
+    },
+    {
+      "naziv": "Karađorđeva",
+      "cena": 600,
+      "sastojci": "panirano svinjsko meso, kackavalj",
+      "slika": "C:\\Users\\andri\\Desktop\\Projekat PIA\\backend\\images\\Ribareva pricaKaradjordjeva"
+    }
+  ],
+  "raspored": [
+    {
+      "x": 25,
+      "y": 14.59375,
+      "w": 30,
+      "h": 30,
+      "tip": "sto",
+      "brojStolica": 2,
+      "idS": 0,
+      "zauzet": false
+    },
+    {
+      "x": 90,
+      "y": 14.59375,
+      "w": 30,
+      "h": 30,
+      "tip": "sto",
+      "brojStolica": 2,
+      "idS": 1,
+      "zauzet": false
+    },
+    {
+      "x": 155,
+      "y": 5.59375,
+      "w": 30,
+      "h": 30,
+      "tip": "sto",
+      "brojStolica": 3,
+      "idS": 2,
+      "zauzet": false
+    },
+    {
+      "x": 240,
+      "y": 18.59375,
+      "w": 30,
+      "h": 30,
+      "tip": "sto",
+      "brojStolica": 4,
+      "idS": 3,
+      "zauzet": false
+    },
+    {
+      "x": 55,
+      "y": 138.59375,
+      "w": 60,
+      "h": 60,
+      "tip": "toalet",
+      "brojStolica": 0,
+      "idS": 0,
+      "zauzet": false
+    },
+    {
+      "x": 265,
+      "y": 90.59375,
+      "w": 120,
+      "h": 50,
+      "tip": "kuhinja",
+      "brojStolica": 0,
+      "idS": 0,
+      "zauzet": false
+    }
+  ],
+  "radnoVreme": [
+    {
+      "dan": "Ponedeljak",
+      "radnoVreme": [
+        {
+          "pocetak": "09:10",
+          "kraj": "22:20"
+        }
+      ]
+    },
+    {
+      "dan": "Utorak",
+      "radnoVreme": [
+        {
+          "pocetak": "16:15",
+          "kraj": "23:59"
+        }
+      ]
+    },
+    {
+      "dan": "Sreda",
+      "radnoVreme": [
+        {
+          "pocetak": "",
+          "kraj": ""
+        },
+        {
+          "pocetak": "00:00",
+          "kraj": "03:15"
+        }
+      ]
+    },
+    {
+      "dan": "Cetvrtak",
+      "radnoVreme": [
+        {
+          "pocetak": "",
+          "kraj": ""
+        }
+      ]
+    },
+    {
+      "dan": "Petak",
+      "radnoVreme": [
+        {
+          "pocetak": "",
+          "kraj": ""
+        }
+      ]
+    },
+    {
+      "dan": "Subota",
+      "radnoVreme": [
+        {
+          "pocetak": "",
+          "kraj": ""
+        }
+      ]
+    },
+    {
+      "dan": "Nedelja",
+      "radnoVreme": [
+        {
+          "pocetak": "",
+          "kraj": ""
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "668a77803739f8013f0b0e33"
+  },
+  "naziv": "Proleće",
+  "tip": "domaći",
+  "adresa": "Prvog Srpskog Ustanka 90",
+  "lokacijaNaMapi": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2830.2143935982667!2d20.452665375685825!3d44.81719677107069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475a654d24cec9d7%3A0xdc107847a0f94bbb!2z4oCe0J_RgNC-0LvQtdGb0LXigJw!5e0!3m2!1ssr!2srs!4v1720350536416!5m2!1ssr!2srs",
+  "opis": "domaća kuhinja",
+  "kontakt": "0641283172",
+  "konobari": [
+    {
+      "korisnickoIme": "igor",
+      "lozinka": "Igor1!",
+      "bezbednosnoPitanje": "Pice",
+      "odgovor": "Vinjak",
+      "ime": "Igor",
+      "prezime": "Vicentijevic",
+      "pol": "m",
+      "adresa": "sp",
+      "kontakt": "064124589",
+      "imejl": "igor@etf.rs",
+      "kreditnaKartica": "2124124",
+      "slika": "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",
+      "restoran": "Proleće"
+    }
+  ],
+  "ocena": 0,
+  "jelovnik": [],
+  "raspored": [
+    {
+      "x": 20,
+      "y": 20,
+      "w": 15,
+      "h": 15,
+      "tip": "sto",
+      "brojStolica": 4,
+      "idS": 0,
+      "zauzet": false
+    },
+    {
+      "x": 70,
+      "y": 70,
+      "w": 15,
+      "h": 15,
+      "tip": "sto",
+      "brojStolica": 3,
+      "idS": 1,
+      "zauzet": false
+    },
+    {
+      "x": 100,
+      "y": 100,
+      "w": 15,
+      "h": 15,
+      "tip": "sto",
+      "brojStolica": 4,
+      "idS": 2,
+      "zauzet": false
+    },
+    {
+      "x": 150,
+      "y": 70,
+      "w": 50,
+      "h": 50,
+      "tip": "toalet",
+      "brojStolica": 0,
+      "idS": 0,
+      "zauzet": false
+    },
+    {
+      "x": 200,
+      "y": 150,
+      "w": 120,
+      "h": 50,
+      "tip": "kuhinja",
+      "brojStolica": 0,
+      "idS": 0,
+      "zauzet": false
+    }
+  ],
+  "radnoVreme": [
+    {
+      "dan": "Ponedeljak",
+      "radnoVreme": [
+        {
+          "pocetak": "11:05",
+          "kraj": "22:15"
+        }
+      ]
+    },
+    {
+      "dan": "Utorak",
+      "radnoVreme": [
+        {
+          "pocetak": "09:10",
+          "kraj": "23:59"
+        }
+      ]
+    },
+    {
+      "dan": "Sreda",
+      "radnoVreme": [
+        {
+          "pocetak": "01:10",
+          "kraj": "20:10"
+        },
+        {
+          "pocetak": "00:00",
+          "kraj": "01:09"
+        }
+      ]
+    },
+    {
+      "dan": "Cetvrtak",
+      "radnoVreme": [
+        {
+          "pocetak": "",
+          "kraj": ""
+        }
+      ]
+    },
+    {
+      "dan": "Petak",
+      "radnoVreme": [
+        {
+          "pocetak": "",
+          "kraj": ""
+        }
+      ]
+    },
+    {
+      "dan": "Subota",
+      "radnoVreme": [
+        {
+          "pocetak": "",
+          "kraj": ""
+        }
+      ]
+    },
+    {
+      "dan": "Nedelja",
+      "radnoVreme": [
+        {
+          "pocetak": "",
+          "kraj": ""
+        }
+      ]
+    }
+  ]
+}]

@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "668945b5d8581153d3622f7c"
+  },
+  "idR": 1,
+  "idS": 3,
+  "datum": {
+    "$date": "2024-07-08T13:24:00.000Z"
+  },
+  "restoran": "Ribareva priča",
+  "korisnik": "neca",
+  "brojOsoba": 2,
+  "napomena": "",
+  "status": "Odbijena",
+  "konobar": "elena",
+  "komentarOdbijanja": "Polomljen sto",
+  "komentar": "Lokacija super, usluga odlicna"
+},
+{
+  "_id": {
+    "$oid": "668945c4d8581153d3622f82"
+  },
+  "idR": 2,
+  "idS": 2,
+  "datum": {
+    "$date": "2024-07-06T12:28:00.000Z"
+  },
+  "restoran": "Ribareva priča",
+  "korisnik": "neca",
+  "brojOsoba": 2,
+  "napomena": "",
+  "status": "Pojavio se",
+  "konobar": "elena",
+  "komentar": "Sve je super, sve preporuke!",
+  "ocena": 2
+},
+{
+  "_id": {
+    "$oid": "66896b9fe619516bc0485ec5"
+  },
+  "idR": 3,
+  "idS": 0,
+  "datum": {
+    "$date": "2024-07-01T16:06:00.000Z"
+  },
+  "restoran": "Ribareva priča",
+  "korisnik": "pepa",
+  "brojOsoba": 2,
+  "status": "Nije se pojavio",
+  "konobar": "danilo"
+},
+{
+  "_id": {
+    "$oid": "66896ba5e619516bc0485eca"
+  },
+  "idR": 4,
+  "idS": 3,
+  "datum": {
+    "$date": "2024-07-01T16:06:00.000Z"
+  },
+  "restoran": "Ribareva priča",
+  "korisnik": "pepa",
+  "brojOsoba": 3,
+  "status": "Nije se pojavio",
+  "konobar": "danilo"
+},
+{
+  "_id": {
+    "$oid": "66896ba8e619516bc0485ecf"
+  },
+  "idR": 5,
+  "idS": 2,
+  "datum": {
+    "$date": "2024-07-01T16:06:00.000Z"
+  },
+  "restoran": "Ribareva priča",
+  "korisnik": "pepa",
+  "brojOsoba": 3,
+  "status": "Nije se pojavio",
+  "konobar": "danilo"
+},
+{
+  "_id": {
+    "$oid": "6689a3d4afd2618db34c8e42"
+  },
+  "idR": 6,
+  "idS": 0,
+  "datum": {
+    "$date": "2024-07-15T13:06:00.000Z"
+  },
+  "restoran": "Ribareva priča",
+  "korisnik": "neca",
+  "brojOsoba": 1,
+  "napomena": "",
+  "status": "Pojavio se",
+  "konobar": "danilo",
+  "komentar": "Konobari vrlo ljubazni",
+  "ocena": 5
+},
+{
+  "_id": {
+    "$oid": "6689ab9dafd2618db34c8f08"
+  },
+  "idR": 8,
+  "idS": 3,
+  "datum": {
+    "$date": "2024-07-15T15:39:00.000Z"
+  },
+  "restoran": "Ribareva priča",
+  "korisnik": "neca",
+  "brojOsoba": 3,
+  "napomena": "",
+  "status": "Pojavio se",
+  "konobar": "danilo",
+  "komentar": "",
+  "ocena": 4
+},
+{
+  "_id": {
+    "$oid": "668a646d3739f8013f0b0ca8"
+  },
+  "idR": 9,
+  "idS": 1,
+  "datum": {
+    "$date": "2024-07-15T12:48:00.000Z"
+  },
+  "restoran": "Ribareva priča",
+  "korisnik": "neca",
+  "brojOsoba": 2,
+  "status": "Prihvaćena",
+  "konobar": "elena"
+},
+{
+  "_id": {
+    "$oid": "668a7aa83739f8013f0b0e86"
+  },
+  "idR": 11,
+  "idS": 1,
+  "datum": {
+    "$date": "2024-07-06T11:23:00.000Z"
+  },
+  "restoran": "Proleće",
+  "korisnik": "neca",
+  "brojOsoba": 2,
+  "napomena": "",
+  "status": "Pojavio se",
+  "konobar": "igor",
+  "komentar": "Sve je super",
+  "ocena": 3
+}]

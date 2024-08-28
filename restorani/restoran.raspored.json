@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "668458e234cad23d4a5361f7"
+  },
+  "x": 20,
+  "y": 20,
+  "w": 15,
+  "h": 15,
+  "tip": "sto",
+  "brojStolica": 4,
+  "idS": 0,
+  "zauzet": false
+},
+{
+  "_id": {
+    "$oid": "668459fd34cad23d4a5361f8"
+  },
+  "x": 70,
+  "y": 70,
+  "w": 15,
+  "h": 15,
+  "tip": "sto",
+  "brojStolica": 3,
+  "idS": 1,
+  "zauzet": false
+},
+{
+  "_id": {
+    "$oid": "66845a0434cad23d4a5361f9"
+  },
+  "x": 100,
+  "y": 100,
+  "w": 15,
+  "h": 15,
+  "tip": "sto",
+  "brojStolica": 4,
+  "idS": 2,
+  "zauzet": false
+},
+{
+  "_id": {
+    "$oid": "66845a1134cad23d4a5361fa"
+  },
+  "x": 150,
+  "y": 70,
+  "w": 50,
+  "h": 50,
+  "tip": "toalet",
+  "brojStolica": 0,
+  "idS": 0,
+  "zauzet": false
+},
+{
+  "_id": {
+    "$oid": "66845a1c34cad23d4a5361fb"
+  },
+  "x": 200,
+  "y": 150,
+  "w": 120,
+  "h": 50,
+  "tip": "kuhinja",
+  "brojStolica": 0,
+  "idS": 0,
+  "zauzet": false
+}]

@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "6682cd43dd0c2ecf9a813a44"
+  },
+  "datumPorudzbine": {
+    "$date": "2024-07-01T15:37:39.684Z"
+  },
+  "datumDostave": null,
+  "restoran": "Prolece",
+  "iznos": 1200,
+  "status": "Prihvaceno",
+  "procenjenoVreme": "30-40",
+  "korisnik": "neca",
+  "stavke": [
+    {
+      "jelo": "Karadjordjeva",
+      "kolicina": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6682d249dd0c2ecf9a813a5d"
+  },
+  "datumPorudzbine": {
+    "$date": "2024-07-01T15:59:05.085Z"
+  },
+  "datumDostave": null,
+  "restoran": "Prolece",
+  "iznos": 1800,
+  "status": "Prihvaceno",
+  "procenjenoVreme": "20-30",
+  "korisnik": "neca",
+  "stavke": [
+    {
+      "jelo": "Becka",
+      "kolicina": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6682f03bdd0c2ecf9a813a6c"
+  },
+  "datumPorudzbine": {
+    "$date": "2024-07-01T18:06:51.235Z"
+  },
+  "datumDostave": null,
+  "restoran": "Prolece",
+  "iznos": 1500,
+  "status": "Odbijeno",
+  "procenjenoVreme": "/",
+  "korisnik": "neca",
+  "stavke": [
+    {
+      "jelo": "Becka",
+      "kolicina": 1
+    },
+    {
+      "jelo": "Karadjordjeva",
+      "kolicina": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6686a54078459478bca83021"
+  },
+  "datumPorudzbine": {
+    "$date": "2024-07-04T13:36:00.238Z"
+  },
+  "datumDostave": null,
+  "restoran": "Prolece",
+  "iznos": 3900,
+  "status": "Prihvaceno",
+  "procenjenoVreme": "30-40",
+  "korisnik": "neca",
+  "stavke": [
+    {
+      "jelo": "Karadjordjeva",
+      "kolicina": 2
+    },
+    {
+      "jelo": "Becka",
+      "kolicina": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "668930d3b7b630d35a0b95df"
+  },
+  "datumPorudzbine": {
+    "$date": "2024-07-06T11:56:03.623Z"
+  },
+  "datumDostave": null,
+  "restoran": "Ribareva priča",
+  "iznos": 2700,
+  "status": "Prihvaceno",
+  "procenjenoVreme": "20-30",
+  "korisnik": "neca",
+  "stavke": [
+    {
+      "jelo": "Punjena pljeskavica",
+      "kolicina": 2
+    },
+    {
+      "jelo": "Karađorđeva",
+      "kolicina": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6689b711afd2618db34c8f6c"
+  },
+  "datumPorudzbine": {
+    "$date": "2024-07-06T21:28:49.657Z"
+  },
+  "datumDostave": null,
+  "restoran": "Ribareva priča",
+  "iznos": 1800,
+  "status": "Prihvaceno",
+  "procenjenoVreme": "20-30",
+  "korisnik": "neca",
+  "stavke": [
+    {
+      "jelo": "Karađorđeva",
+      "kolicina": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "668a645c3739f8013f0b0ca2"
+  },
+  "datumPorudzbine": {
+    "$date": "2024-07-07T09:48:12.489Z"
+  },
+  "datumDostave": null,
+  "restoran": "Ribareva priča",
+  "iznos": 2700,
+  "status": "Odbijeno",
+  "procenjenoVreme": "/",
+  "korisnik": "neca",
+  "stavke": [
+    {
+      "jelo": "Punjena pljeskavica",
+      "kolicina": 2
+    },
+    {
+      "jelo": "Karađorđeva",
+      "kolicina": 3
+    }
+  ]
+}]
